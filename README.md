@@ -1,35 +1,37 @@
-# Hi there, I'm Emanuel 👋
+# Hola, soy Emanuel 👋
 
-I'm a student who loves **programming**, mainly `web development` and **web design**. I'm looking to keep expanding my knowledge and skills in order to grow as a junior developer.
+Soy un estudiante amante de la **programación**, actualmente estoy enfocado en el `Desarrollo` y `Diseño Web` desde el **Front-End**.
+Estoy abierto a seguir mi camino de aprendizaje para potenciar mis conocimientos y crecer como desarollador junior.
 
-- 🔭 I’m currently working on **myself**
-- 🌱 I’m currently learning web development
-- 📫 How to reach me: [hermosilla.emanuel811@gmail.com](mailto:hermosilla.emanuel811@gmail.com)
+- 🔭 Actualmente estoy trabajando en **mí mismo**
+- 🌱 Actualmente estoy realizando una **Tecnicatura en Programacion**
+- 🌱 Actualmente soy candidato del programa [Hello One: Oracle Next Education](https://www.oracle.com/ar/education/oracle-next-education/)
+- 📫 Cómo contactarme:
+  - [Mail](mailto:hermosilla.emanuel811@gmail.com)
+  - [Github](https://www.github.com/em40a/)
+  - [Linkedin](https://www.linkedin.com/in/em40a/)
 
-## Projects
+## Projectos
 
-- Edenv - Enviroment Educatión🌳  
-    👉 [Web Page](https://edenv.netlify.app)  
-    👉 [Repository](https://github.com/Em40a/Edenv)
+- Edenv - Educación Ambiental 🌳  
+    👉 [Pagina](https://edenv.netlify.app)  
+    👉 [Repositorio](https://github.com/Em40a/Edenv)
 
-- Mercado Liebre🐰  
-    👉 [Web Page](https://store-mercadoliebre.netlify.app)  
-    👉 [Repository](https://github.com/Em40a/Mercado-Liebre)
+- Mercado Liebre  
+    👉 [Pagina](https://store-mercadoliebre.netlify.app)  
+    👉 [Repositorio](https://github.com/Em40a/Mercado-Liebre) 
 
-## Front-End 
+## Hard-Skills 
 
-<div>
-    <img height="40px" alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-    <img height="40px" alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
-    <img height="40px" alt="JavaScript ES6" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-    <img height="40px" alt="SCSS/SASS" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
-    <img height="40px" alt="Bootstrap" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
-</div>
+![HTML5](icons/html-5.svg)
+![CSS3](icons/css-3.svg)
+![JavaScript ES6](icons/javascript.svg)
+![Sass/SCSS](icons/sass.svg)
+![Python](icons/python.svg)
+![MySQL](icons/mysql.svg)
 
-## Tools 
+### Otras Herramientas 
 
-<div>
-    <img height="40px" alt="Visual Studio Code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-    <img height="40px" alt="Git"  src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-    <img height="40px" alt="Photoshop cc" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
-</div>
+![Git](icons/git.svg)
+![Figma](icons/figma.svg)
+![Adobe Photoshop](icons/photoshop.svg)
