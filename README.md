@@ -10,7 +10,7 @@ Estoy abierto a aprender para seguir potenciando mis conocimientos y poder crece
 
 <br>
 
-🌎 **Lenguajes y Herramientas**: 
+### 🌎 **Lenguajes y Herramientas**: 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -33,9 +33,7 @@ Estoy abierto a aprender para seguir potenciando mis conocimientos y poder crece
 
 ###
 
-<img src="https://raw.githubusercontent.com/em40a/em40a/output/snake.svg" alt="Snake animation"/>
-
-###
+### 📫 Contacto 
 
 <div align="right">
   <a href="https://www.linkedin.com/in/em40a/">
